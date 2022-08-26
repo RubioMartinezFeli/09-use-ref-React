@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/09-use-ref-React/static/css/main.a9778ba8.css",
+    "main.js": "/09-use-ref-React/static/js/main.a4c322ec.js",
+    "index.html": "/09-use-ref-React/index.html",
+    "main.a9778ba8.css.map": "/09-use-ref-React/static/css/main.a9778ba8.css.map",
+    "main.a4c322ec.js.map": "/09-use-ref-React/static/js/main.a4c322ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9778ba8.css",
+    "static/js/main.a4c322ec.js"
+  ]
+}
